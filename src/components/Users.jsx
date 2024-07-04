@@ -27,7 +27,7 @@ const Users = () => {
 
     const [users, setUsers] = useState([]);
 
-    const API_URL = 'https://6803vmt1db.execute-api.us-east-1.amazonaws.com/Dev';
+    const API_URL = 'https://fj0lsk29cl.execute-api.us-east-1.amazonaws.com/dev';
 
     useEffect(() => {
         const getData = async () => {
