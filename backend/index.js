@@ -24,4 +24,4 @@ exports.handler = async (event, context) => {
 };  
 
 
-console.log("Hello updated");
+console.log("Hello");
